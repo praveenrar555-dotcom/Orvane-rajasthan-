@@ -1,0 +1,6 @@
+{
+  "name": "Orvane Rajasthan · The Royal Realm",
+  "description": "An experiential 3D spatial celebration of Rajasthani culture and heritage featuring 150,000 interactive glowing particles, architectural citadels, folk arts, and a royal glass concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
